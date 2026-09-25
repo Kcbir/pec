@@ -1,0 +1,5 @@
+environment,horizon,seconds_by_definition,seconds_by_pec,speedup
+T-maze,4,0.000279,6.5e-05,4.3
+Rotating MAB,4,0.000653,0.000113,5.8
+Cheat MAB,4,0.000957,0.000182,5.3
+Rotating Maze,5,0.000114,1.9e-05,5.9

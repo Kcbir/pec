@@ -1,0 +1,5 @@
+separating_depth,gap,eta_consulted,window_lo,window_hi,exact_test_behaviour,window_verdicts_correct,over_eps_certifies
+2,1/2,0.072222,0.144444,0.355556,never,True,True
+4,1/2,0.083333,0.166667,0.333333,never,True,True
+6,1/2,0.09751,0.195021,0.304979,never,True,True
+8,1/2,0.095122,0.190244,0.309756,never,True,True

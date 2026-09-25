@@ -1,0 +1,6 @@
+environment_or_depth,random_walk_mass,state_prefix_mass,designed_mass,prefix_over_walk
+2,1/4,3/8,1,1.5
+4,1/16,15/64,1,3.75
+6,1/64,21/128,1,10.5
+8,1/256,255/2048,1,31.875
+T-maze,1/2,1/2,1,1.0

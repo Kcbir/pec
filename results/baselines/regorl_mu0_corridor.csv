@@ -1,0 +1,7 @@
+depth,mu0_under_pi,assumption2_under_pi,pec_verdict_under_pi,mu0_under_deviation,ratio_to_previous_depth,seconds_by_definition,seconds_by_pec,speedup
+2,,vacuous,equivalent,1/4,--,0.0005,0.00014,3.7
+3,,vacuous,equivalent,1/16,0.250,0.0024,0.00054,4.4
+4,,vacuous,equivalent,1/64,0.250,0.01,0.00143,7.0
+5,,vacuous,equivalent,1/256,0.250,0.0408,0.00314,13.0
+6,,vacuous,equivalent,1/1024,0.250,0.1616,0.00567,28.5
+7,,vacuous,equivalent,1/4096,0.250,0.6536,0.00969,67.5

@@ -1,0 +1,5 @@
+environment,kind,horizon,mu0_under_pi,mu0_under_deviation,n_minimal_pairs_under_pi,argmin_pair_under_pi,assumption2_under_pi,assumption2_under_deviation,pec_verdict_under_pi,pec_verdict_under_deviation,pec_agrees
+T-maze,action-in-visited-state,4,0,1/2,3,t=2: sawLeft vs sawRight,FAILS,holds,False,True,True
+Rotating MAB,action-in-visited-state,4,0,1/4,3,t=2: 0 vs 1,FAILS,holds,False,True,True
+Cheat MAB,unvisited-state,4,0,1/24,2,t=2: 0 vs 1,FAILS,holds,False,True,True
+Rotating Maze,unvisited-state,5,,9/256,0,--,vacuous,holds,True,True,True

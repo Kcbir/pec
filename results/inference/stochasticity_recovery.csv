@@ -1,0 +1,5 @@
+environment,rows_visited,rows_total,mean_abs_err,max_abs_err,min_samples_per_row
+T-maze,6,6,0.030565,0.06,17
+Rotating MAB,6,6,0.029841,0.067164,41
+Cheat MAB,9,9,0.051079,0.166667,20
+Rotating Maze,12,12,0.076881,0.365385,7

@@ -1,0 +1,17 @@
+environment,trajectories,log10_bf_min,log10_bf_mean,log10_bf_max,seeds_negative
+T-maze,2,-0.4102,0.2562,1.666,7
+T-maze,5,-0.4296,2.5403,6.043,1
+T-maze,10,3.4273,7.1493,10.9589,0
+T-maze,20,11.9203,16.975,21.6628,0
+Rotating MAB,2,-0.2129,0.4057,1.5441,1
+Rotating MAB,5,-0.0998,0.9655,2.6397,2
+Rotating MAB,10,0.4008,2.2808,4.7509,0
+Rotating MAB,20,2.1257,5.0805,9.4893,0
+Cheat MAB,2,-0.7412,-0.0261,1.1059,6
+Cheat MAB,5,-0.4981,0.6911,1.9929,3
+Cheat MAB,10,0.801,2.6569,4.8723,0
+Cheat MAB,20,2.3793,6.2392,9.102,0
+Rotating Maze,2,-0.7702,0.2293,0.7871,4
+Rotating Maze,5,-0.5085,0.45,1.6285,5
+Rotating Maze,10,-0.1441,1.6162,4.2171,1
+Rotating Maze,20,-0.3302,3.9758,6.4072,1

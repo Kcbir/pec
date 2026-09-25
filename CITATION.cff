@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you use this software, please cite the accompanying paper.
+title: pec
+version: 1.0.0
+date-released: 2026-09-25
+license: MIT
+repository-code: "https://github.com/Kcbir/pec"
+authors:
+  - family-names: Murjani
+    given-names: Kabir
+preferred-citation:
+  type: article
+  title: "Deciding Observational Equivalence in Non-Markovian Decision Processes"
+  authors:
+    - family-names: Murjani
+      given-names: Kabir
+    - family-names: Patel
+      given-names: Nisarg
+  year: 2026

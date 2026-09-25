@@ -1,0 +1,5 @@
+environment,states,structure,log10_bayes_factor,verdict
+T-maze,3,remember the initial cue,35.0573,decisive
+Rotating MAB,2,reward probs rotate on every reward,8.0291,decisive
+Cheat MAB,3,an action sequence unlocks max reward,7.8082,decisive
+Rotating Maze,6,orientation rotates every 3 moves,9.8354,decisive

@@ -1,0 +1,5 @@
+environment,horizon,mass_under_pi,mass_under_pi_float,mass_under_deviation,mass_under_deviation_float,eig_pi,eig_deviation
+T-maze,2,0,0.0,1/2,0.5,0.000e+00,0.107881
+Rotating MAB,3,0,0.0,245/512,0.478515625,0.000e+00,0.07418
+Cheat MAB,3,0,0.0,1/9,0.1111111111111111,-3.331e-16,0.014535
+Rotating Maze,4,0,0.0,1/8,0.125,0.000e+00,0.016352

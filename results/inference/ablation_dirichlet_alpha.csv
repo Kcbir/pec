@@ -1,0 +1,5 @@
+environment,log10_bf_alpha_1,log10_bf_alpha_2,log10_bf_alpha_3,log10_bf_alpha_5,log10_bf_alpha_10
+T-maze,35.0573,33.2301,31.6553,29.0604,24.4451
+Rotating MAB,8.0291,8.1321,8.0302,7.6817,6.7541
+Cheat MAB,7.8082,7.8858,7.6127,6.8939,5.3117
+Rotating Maze,9.8354,9.8936,9.4512,8.3791,6.155

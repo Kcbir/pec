@@ -1,0 +1,5 @@
+environment,log10_bf_mean,log10_bf_sd,log10_bf_min,log10_bf_max,emission_mae_mean,emission_mae_sd
+T-maze,37.3573,2.0706,34.8212,40.6094,0.04441,0.01513
+Rotating MAB,10.7769,3.0898,6.2734,17.5064,0.04461,0.01813
+Cheat MAB,11.1181,3.2866,6.3749,16.4364,0.05071,0.0156
+Rotating Maze,10.4088,1.9946,8.4726,13.9233,0.06543,0.01385

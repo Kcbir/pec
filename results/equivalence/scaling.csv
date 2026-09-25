@@ -1,0 +1,10 @@
+n_states_m1,n_states_m2,product,pairs_explored,product_full,verdict,seconds,microseconds_per_pair
+10,11,110,110,True,equivalent,0.0005,4.498
+20,21,420,420,True,equivalent,0.0018,4.315
+50,51,2550,2550,True,equivalent,0.0111,4.356
+100,101,10100,10100,True,equivalent,0.0438,4.335
+200,201,40200,40200,True,equivalent,0.1777,4.42
+320,321,102720,102720,True,equivalent,0.4657,4.534
+500,501,250500,250500,True,equivalent,1.1263,4.496
+700,701,490700,490700,True,equivalent,2.2282,4.541
+1000,1001,1001000,1001000,True,equivalent,4.6457,4.641

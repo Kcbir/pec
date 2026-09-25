@@ -1,0 +1,5 @@
+environment,lookahead_d,greedy_seq,greedy_mass,greedy_mass_float,greedy_rev_seq,greedy_rev_mass,greedy_rev_mass_float,optimal_seq,optimal_mass,optimal_mass_float,optimal_eig
+T-maze,2,"wait,run",1,1.0,"run,run",1,1.0,"wait,run",1,1.0,0.215762
+Rotating MAB,2,"arm0,arm1",1/2,0.5,"arm2,arm2",1/4,0.25,"arm1,arm1",3/4,0.75,0.098109
+Cheat MAB,3,"arm0,arm0,arm0",0,0.0,"arm2,arm2,arm2",0,0.0,"arm1,arm2,arm0",1,1.0,0.130812
+Rotating Maze,4,"stay,stay,stay,stay",0,0.0,"move,move,move,move",1,1.0,"move,move,move,stay",1,1.0,0.130812
