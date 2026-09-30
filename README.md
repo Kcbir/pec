@@ -13,7 +13,7 @@
 
 ---
 
-Reference implementation, experiments and Lean 4 formalization for *Exact Distinguishability in Non-Markovian Decision Processes* by Kabir Murjani and Nisarg Patel.
+Reference implementation, experiments and Lean 4 formalization for *Exact Distinguishability in Non-Markovian Decision Processes.*
 
 Non-Markovian environments are often modeled as Regular Decision Processes (RDPs), where dynamics depend on the interaction
 history through a finite automaton. Offline methods learn an RDP from a corpus collected under a fixed behaviour policy
