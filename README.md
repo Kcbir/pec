@@ -7,7 +7,6 @@
 [![python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![dependencies](https://img.shields.io/badge/dependencies-standard%20library-5A7B55)](pyproject.toml)
 [![proofs](https://img.shields.io/badge/proofs-Lean%204%20%2B%20Mathlib-0F4C81)](lean/)
-[![tests](https://img.shields.io/github/actions/workflow/status/Kcbir/pec/tests.yml?branch=main&label=tests&logo=github)](https://github.com/Kcbir/pec/actions/workflows/tests.yml)
 [![licence](https://img.shields.io/badge/licence-MIT-555555)](LICENSE)
 
 </div>
