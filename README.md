@@ -1,6 +1,6 @@
 <div align="center">
 
-# Deciding Observational Equivalence in Non-Markovian Decision Processes
+# Exact Distinguishability in Non-Markovian Decision Processes
 
 *PEC, the π-equivalence certifier*
 
@@ -14,12 +14,10 @@
 
 ---
 
-Reference implementation, experiments and Lean 4 formalization for *Deciding Observational
-Equivalence in Non-Markovian Decision Processes* by Kabir Murjani and Nisarg Patel.
+Reference implementation, experiments and Lean 4 formalization for *Exact Distinguishability in Non-Markovian Decision Processes* by Kabir Murjani and Nisarg Patel.
 
-A Regular Decision Process (RDP) is a decision process whose next observation depends on the
-interaction history through the state of a finite automaton driven by the action-observation
-sequence. Offline methods learn an RDP from a corpus collected under a fixed behaviour policy
+Non-Markovian environments are often modeled as Regular Decision Processes (RDPs), where dynamics depend on the interaction
+history through a finite automaton. Offline methods learn an RDP from a corpus collected under a fixed behaviour policy
 π, and such a corpus may never contain the experiment that separates one candidate model from
 another. Two candidates are π-observationally equivalent when they assign equal likelihood to
 every history that π can generate. Under π-equivalence the posterior odds between the
