@@ -135,15 +135,4 @@ lake exe cache get
 lake build
 ```
 
-## Citation
-
-```bibtex
-@misc{murjani2026pec,
-  title  = {Deciding Observational Equivalence in Non-Markovian Decision Processes},
-  author = {Murjani, Kabir and Patel, Nisarg},
-  year   = {2026},
-  url    = {https://github.com/Kcbir/pec}
-}
-```
-
 Released under the [MIT licence](LICENSE).
